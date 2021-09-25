@@ -8,15 +8,15 @@ API Correios/API Zip Code (Brazil)
 API dos Correios feita através do ViaCEP (https://viacep.com.br/). 
 API zip code in Brazil made with ViaCEP (https://viacep.com.br/). 
 
-01000-000 to 09999-999 - *São Paulo Metropolitan Region including the suburbs or the area outside the São Paulo metropolitan region
+**01000-000 to 09999-999 - *São Paulo Metropolitan Region including the suburbs or the area outside the São Paulo metropolitan region**
 11000-000 to 19999-999 - State of São Paulo
-20000-000 to 28999-999 - State of Rio de Janeiro
+**20000-000 to 28999-999 - State of Rio de Janeiro**
 29000-000 to 29999-999 - State of Espírito Santo
-30000-000 to 39999-999 - State of Minas Gerais
+**30000-000 to 39999-999 - State of Minas Gerais**
 40000-000 to 48999-999 - State of Bahia
-49000-000 to 49999-999 - State of Sergipe
+**49000-000 to 49999-999 - State of Sergipe**
 50000-000 to 56999-999 - State of Pernambuco
-57000-000 to 57999-999 - State of Alagoas
+**57000-000 to 57999-999 - State of Alagoas**
 58000-000 to 58999-999 - State of Paraíba
 59000-000 to 59999-999 - State of Rio Grande do Norte
 60000-000 to 63999-999 - State of Ceará
@@ -42,6 +42,7 @@ API zip code in Brazil made with ViaCEP (https://viacep.com.br/).
 90000-000 to 99999-999 - State of Rio Grande do Sul
 
 Legendas:
+
 São Paulo Metropolitan Region including the suburbs or the area outside the São Paulo metropolitan region = Região Metropolitana de São Paulo incluindo suburbios e áreas fora da região metropolitana de São Paulo
 
 State = Estado
