@@ -2,7 +2,7 @@
 API Correios/API Zip Code (Brazil)
 
 <p align="center">
-  <img with="500" src="src/assets/readme_md/apiCorreiosGif.gif">
+  <img with="500" src="https://github.com/Rafaeli9/API-Correios-API-Zip-Code/blob/main/apiCorreiosGif.gif">
 </p>
 
 API dos Correios feita através do ViaCEP (https://viacep.com.br/). 
